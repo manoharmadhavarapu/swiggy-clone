@@ -1,0 +1,78 @@
+{
+    "info": {
+        "id": "698274",
+        "name": "McDonald's",
+        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/4/1/1d6e44d4-2b6f-46c9-9108-c0ad40839502_698274.jpg",
+        "locality": "Phoenix Burugu Mall",
+        "areaName": "Guntur",
+        "costForTwo": "₹400 for two",
+        "cuisines": [
+            "Burgers",
+            "Beverages",
+            "Cafe",
+            "Desserts"
+        ],
+        "avgRating": 4.2,
+        "parentId": "630",
+        "avgRatingString": "4.2",
+        "totalRatingsString": "1K+",
+        "sla": {
+            "deliveryTime": 27,
+            "lastMileTravel": 3.7,
+            "serviceability": "SERVICEABLE",
+            "slaString": "25-30 mins",
+            "lastMileTravelString": "3.7 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2024-04-14 23:00:00",
+            "opened": true
+        },
+        "badges": {
+            "imageBadges": [
+                {
+                    "imageId": "Rxawards/_CATEGORY-Burger.png",
+                    "description": "Delivery!"
+                }
+            ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {
+                    "badgeObject": [
+                        {
+                            "attributes": {
+                                "description": "Delivery!",
+                                "imageId": "Rxawards/_CATEGORY-Burger.png"
+                            }
+                        }
+                    ]
+                },
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "20% OFF",
+            "subHeader": "UPTO ₹50"
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+        "link": "https://www.swiggy.com/restaurants/mcdonalds-phoenix-burugu-mall-guntur-guntur-698274",
+        "type": "WEBLINK"
+    }
+}
